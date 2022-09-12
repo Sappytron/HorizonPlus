@@ -45,19 +45,19 @@ IMPORTANT INFORMATION:
 HorizonPlus was created by Sappytron.
 
 Special thanks to the following community members & teams for helping to test, develop or otherwise support the project throughout it's development:
-The 1 Hour of Racing Team
-The FIDA Team
-Scarshe
-Saeenu
-Forzurda
-URAF6 Genji
-Carat
-SWR Quackula
-ChimiChungo
-YoYoGavri
-ATK Mang0
-The Hand of God
-gRg WildCard
-Azhbruh
-KawzNova
-peel
+- The 1 Hour of Racing Team
+- The FIDA Team
+- Scarshe
+- Saeenu
+- Forzurda
+- URAF6 Genji
+- Carat
+- SWR Quackula
+- ChimiChungo
+- YoYoGavri
+- ATK Mang0
+- The Hand of God
+- gRg WildCard
+- Azhbruh
+- KawzNova
+- peel
