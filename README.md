@@ -1,2 +1,63 @@
 # HorizonPlus
 A UI project for Forza Horizon 5, aiming to improve the existing framework with a plethora of new information for maximum detail and tools to improve your racing.
+
+HorizonPlus is designed to enhance and augment the existing UI with new features and additions for players of all disciplines.
+SimHub is required to be installed for the overlay to function.
+
+INSTRUCTIONS:
+- Unzip all files and copy the 'DashTemplates', 'DashFonts' and 'OverlayLayouts' folders into your SimHub install folder.
+  - Alpha/Beta Testers: When upgrading, be sure to click "Replace Files". Delete legacy files for the optimal experience.
+- Configure the game: Go to Game Settings > HUD and Gameplay > set "Data IP Out Address" to 127.0.0.1 and "Data IP Out Port" to 8000.
+- Start the Overlay in Dash Studio > Overlays > (HorizonPlus [Target Resolution])
+- Ensure "Hide when Not in Race" is ticked.
+- You're done! If the overlay doesn't show up initially, restart the game and SimHub after setting up.
+
+FEATURES:
+- Live Player Inputs: 
+   - Throttle
+   - Braking
+   - Clutch
+   - Steering
+   - Handbrake
+
+- Additional Readouts:
+   - Per-Lap Delta
+   - Last Lap
+   - Peak Speed
+   - Boost Pressure Gauge (Psi by default - Alternate 'Bar' version is packaged / requires manual addition.)
+   - Accelerometer
+   - G-Forces
+   - Suspension Compression Model
+   - Slim Version of Lap / Race Position UI
+
+- Visual Per-Tire Model:
+   - Temperature Average
+   - Grip / Wheelspin
+   - Standing Water Indicator
+
+IMPORTANT INFORMATION:
+- Pausing / Rewinding internally resets the session, meaning Delta will be incorrect for the following lap and Peak Speed data will reset.
+- The overlay is compiled of modules that you can swap and change to your personal preference. Find the right setup for you.
+- HorizonPlus comes with 1080p, 1440p and 4K presets. Other resolutions, playing on non-primary monitors and changing UI Scale / safezones will require adjusting of the UI.
+- Users running V-Sync and G-SYNC/FreeSync simultaneously may experience issues due to SimHub's hook process.
+- The tire heat model is tuned for Semi-Slicks.
+
+HorizonPlus was created by Sappytron.
+
+Special thanks to the following community members & teams for helping to test, develop or otherwise support the project throughout it's development:
+The 1 Hour of Racing Team
+The FIDA Team
+Scarshe
+Saeenu
+Forzurda
+URAF6 Genji
+Carat
+SWR Quackula
+ChimiChungo
+YoYoGavri
+ATK Mang0
+The Hand of God
+gRg WildCard
+Azhbruh
+KawzNova
+peel
