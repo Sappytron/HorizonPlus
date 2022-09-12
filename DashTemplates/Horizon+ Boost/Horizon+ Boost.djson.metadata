@@ -1,0 +1,21 @@
+{
+  "Category": null,
+  "Title": "HorizonPlus Boost Gauge",
+  "Description": "PSI VARIANT - Reads from -20 to 60 Psi",
+  "Author": "Ben Sapsford / Sappytron",
+  "ScreenCount": 1.0,
+  "InGameScreensIndexs": [
+    0
+  ],
+  "IdleScreensIndexs": [
+    0
+  ],
+  "MainPreviewIndex": 0,
+  "IsOverlay": true,
+  "Width": 175.0,
+  "Height": 175.0,
+  "OverlaySizeWarning": false,
+  "MetadataVersion": 2.0,
+  "EnableOnDashboardMessaging": true,
+  "PitScreensIndexs": []
+}

@@ -1,0 +1,21 @@
+{
+  "Category": null,
+  "Title": "HorizonPlus Tuning Panel",
+  "Description": "INFORMATION - Includes Max Speed, Lateral / Acceleration G, Accelerometer and Suspension Compression",
+  "Author": "Ben Sapsford / Sappytron",
+  "ScreenCount": 1.0,
+  "InGameScreensIndexs": [
+    0
+  ],
+  "IdleScreensIndexs": [
+    0
+  ],
+  "MainPreviewIndex": 0,
+  "IsOverlay": true,
+  "Width": 360.0,
+  "Height": 500.0,
+  "OverlaySizeWarning": false,
+  "MetadataVersion": 2.0,
+  "EnableOnDashboardMessaging": true,
+  "PitScreensIndexs": []
+}

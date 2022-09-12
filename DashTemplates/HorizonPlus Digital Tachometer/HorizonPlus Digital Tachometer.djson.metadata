@@ -1,0 +1,21 @@
+{
+  "Category": null,
+  "Title": "HorizonPlus Digital Tachometer",
+  "Description": "DIGITAL DASH - Align with inner circle (Clutch) and inner rev gauge (Throttle / Brake)",
+  "Author": "Ben Sapsford / Sappytron",
+  "ScreenCount": 1.0,
+  "InGameScreensIndexs": [
+    0
+  ],
+  "IdleScreensIndexs": [
+    0
+  ],
+  "MainPreviewIndex": 0,
+  "IsOverlay": true,
+  "Width": 442.0,
+  "Height": 173.0,
+  "OverlaySizeWarning": false,
+  "MetadataVersion": 2.0,
+  "EnableOnDashboardMessaging": true,
+  "PitScreensIndexs": []
+}

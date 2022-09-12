@@ -1,0 +1,21 @@
+{
+  "Category": null,
+  "Title": "HorizonPlus Info Module",
+  "Description": "INFORMATION - Includes Last Lap and Delta Timer/Tracker",
+  "Author": "Ben Sapsford / Sappytron",
+  "ScreenCount": 1.0,
+  "InGameScreensIndexs": [
+    0
+  ],
+  "IdleScreensIndexs": [
+    0
+  ],
+  "MainPreviewIndex": 0,
+  "IsOverlay": true,
+  "Width": 360.0,
+  "Height": 95.0,
+  "OverlaySizeWarning": false,
+  "MetadataVersion": 2.0,
+  "EnableOnDashboardMessaging": true,
+  "PitScreensIndexs": []
+}
