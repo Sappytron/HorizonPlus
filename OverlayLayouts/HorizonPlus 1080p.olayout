@@ -1,0 +1,54 @@
+{
+  "OverlayLayoutParts": [
+    {
+      "DashboardName": "DashTemplates\\Horizon+ Tach\\Horizon+ Tach.djson",
+      "Top": 759.0,
+      "Left": 1602.0,
+      "Width": 249.0,
+      "Height": 249.0,
+      "Placed": true,
+      "Transparent": false,
+      "FileName": null
+    },
+    {
+      "DashboardName": "DashTemplates\\Horizon+ Boost\\Horizon+ Boost.djson",
+      "Top": 858.0,
+      "Left": 1473.0,
+      "Width": 175.0,
+      "Height": 175.0,
+      "Placed": true,
+      "Transparent": false,
+      "FileName": null
+    },
+    {
+      "DashboardName": "DashTemplates\\Horizon+ Tuning Panel\\Horizon+ Tuning Panel.djson",
+      "Top": 395.0,
+      "Left": 49.0,
+      "Width": 235.0,
+      "Height": 326.0,
+      "Placed": true,
+      "Transparent": false,
+      "FileName": null
+    },
+    {
+      "DashboardName": "DashTemplates\\Horizon+ Info Module\\Horizon+ Info Module.djson",
+      "Top": 223.0,
+      "Left": 49.0,
+      "Width": 235.0,
+      "Height": 62.0,
+      "Placed": true,
+      "Transparent": false,
+      "FileName": null
+    }
+  ],
+  "EditMode": false,
+  "HideWhenNotInRace": true,
+  "Screen": {
+    "WorkingArea": "0, 0, 1920, 1040",
+    "Primary": true,
+    "DeviceName": "\\\\.\\DISPLAY1",
+    "Bounds": "0, 0, 1920, 1080",
+    "BitsPerPixel": 32
+  },
+  "FileName": "HorizonPlus 1080p"
+}
