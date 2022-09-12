@@ -1,0 +1,98 @@
+HorizonPlus 1.0: FIRST OFFICIAL RELEASE!!!
+    Visual Improvements:
+	- Applied visual smoothing algorithm to Accelerometer, Lateral G and Acceleration G readouts.
+	- Minor visual / placement adjustments.
+	
+    Additions/Changes:
+	- Digital Dash variant of the Tachometer UI added. (It is not added by default.)
+	- RaceData UI added. For racers wanting to clean their UI but retain Lap Count / Position. (It is not added by default.)
+	- Completely reworked backend from JavaScript Engine to NCalc.
+	  Values should now be more consistent and the overlay should use less resources.
+	- Minor code refactoring for performance.
+	- Delta no longer displays a value on the first lap / when at 0.
+	- Delta now shows 2 decimal places rather than 3.
+	
+    Fixes:
+	- Lateral G and Acceleration G now correctly have 2 decimal places of data at all times.
+	- Rear Suspension Compression graphics tuned for better accuracy.
+	
+HorizonPlus 0.9.1:
+- Fixed 1080p Overlay compositing issue. Elements should now be correctly placed.
+- Unified nomenclature for all elements. (NOTE: Deletion of old 'Horizon+' overlays is recommended.)
+- Fixed invalid character issue when porting to Dashboard.
+
+HorizonPlus 0.9:
+- Added BAR measurement variant of the Boost Gauge, that can be swapped in/out.
+- Added 1440p Overlay preset. Credit to Forzurda for providing the .olayout file.
+- Added Suspension Compression readout.
+- Added Accelerometer.
+- Added Lateral G / Acceleration G force readouts.
+- Minor adjustments to Tachometer element positions. The Handbrake gauge has been flipped to the bottom and elements slightly moved.
+- Reorganised assets. Max Speed readouts have moved and joined the accelerometer and suspension model in a new "Tuning Panel" that is added by default. This panel can be hidden/removed manually.
+- Text should now correctly scale at all resolutions.
+
+HorizonPlus v0.8.2:
+- Added 4K Overlay preset. Credit to Saeenu for providing the .olayout file.
+
+HorizonPlus v0.8.1:
+- Delta readout now changes colour to green (Improvement) or Red (Time loss) when lapping.
+- Adjusted text shadow / sharpness.
+
+HorizonPlus v0.8:
+- Completely overhauled Brake, Turbo and Steering gauge logic to support anti-clockwise rotation.
+- Further visual improvements.
+
+HorizonPlus v0.7.1:
+- Visual Improvements.
+
+HorizonPlus v0.7:
+- Added Wet Tire / Water Detection.
+- Updated Turbo Gauge boundaries and graphics.
+- Updated Tire Model layering to improve visual consistency.
+- Updated Fonts to better reflect the game. Credit to Scarshe for providing the .ttf files.
+
+HorizonPlus v0.6:
+- Added Peak Speed in both MPH and KMH.
+- Added numerical readouts to Turbo Gauge.
+- Adjusted values for Turbo Gauge.
+- Adjusted 'Coming Soon' list to more accurately reflect what is possible from the game.
+
+HorizonPlus v0.5:
+- Boost Gauge added. This is a very early feature and will receive a visual overhaul in the final release.
+The current gauge displays Boost and Vacuum.
+- Steering Readout has been added.
+- Refactored visibility code for Last Lap and Delta Timer.
+- Further adjusted Throttle / Brake Input colouration.
+
+HorizonPlus v0.4.2:
+- Last Lap and Delta Timer are now correctly hidden when not in a race.
+
+HorizonPlus v0.4.1:
+- Adjusted colour of Grip Indicators to better blend with the game.
+- Further tuning of Tire Heat colour bands.
+- Font replaced for closer parity to the game.
+
+HorizonPlus v0.4:
+- Completely reworked tire heat display to be much more consistent with in-game readouts.
+- Tire display now correctly appears when entering / leaving optimum heat window.
+- Wheelspin detection / Grip Indicators added.
+- Last Lap and Delta Timer displays reworked to be much more consistent with in-game UI.
+
+HorizonPlus v0.3.1:
+- Tuned colour bands for tire heat display to be more consistent.
+- Fixed positioning / alignment of Handbrake display.
+
+HorizonPlus v0.3:
+- Primitive tire heat model/graphic added.
+- Gap Timer replaced with in-house Delta Timer.
+- Last Lap display added.
+- Fixed incorrect attribution in README.txt.
+
+HorizonPlus v0.2:
+- Added Handbrake display.
+- Fixed positioning / alignment of Clutch display.
+- Adjusted opacity of Throttle / Brake visuals to better blend with the game.
+- Fixed the bottom of the 'p' in 'Gap' being clipped off.
+
+HorizonPlus v0.1:
+Initial Release.
