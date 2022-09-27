@@ -1,0 +1,40 @@
+This document serves as a record of all known / recorded tyre compound temperature thresholds, as reported by Telemetry and optimised for H+ graphics.
+Use these values for the corresponding Tire Temperature graphics (Cold and Hot) in order to switch to different compounds.
+This serves as an interim solution until a more efficient / user friendly one is developed (Learning C# while doing 2 jobs is hard)
+
+NOTE: Values may display be inaccurate in places - these will be retuned if required and mentioned in the Patch Notes. All values were recorded in a single session, using the 2016 Audi R8 for Semi Slicks and up, and the 2002 Acura RSX for Stock/Street/Sport. No parts / tuning of the car was changed except tyre compounds.
+(Values are measured internally in Celsius - Trying to use Fahrenheit will break things.)
+
+Data Values will follow the below format:
+Cold(Blue) - Optimal(Lower Bound / Clear): Cold Side Graphics
+Optimal(Upper Bound / Clear) - Hot(Yellow) - OVERHEAT(Red): Hot Side Graphics
+
+Stocks:
+60-65   95-100-170
+
+Street:
+65-70   115-120-170
+
+Sport:
+70-75   100-105-175
+
+(Horizon / Hot Wheels / Standard) Semi Slicks: (DEFAULT)
+80-90   120-125-180
+
+Slicks: (REMEASURE)
+70-75   100-105-170
+
+Drift:
+65-75   100-105-170
+
+Off-Road / Rallies:
+70-75   95-100-175
+
+Off-Road Race:
+65-70   95-100-175
+
+Snow:
+65-70   100-105-175
+
+Drag:
+60-65   105-110-165
