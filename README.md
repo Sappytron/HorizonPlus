@@ -34,6 +34,7 @@ FEATURES:
    - Temperature Average
    - Grip / Wheelspin
    - Standing Water Indicator
+   - Tyre Data Table (For Swapping Values - Switcher coming soon)
 
 IMPORTANT INFORMATION:
 - Pausing / Rewinding internally resets the session, meaning Delta will be incorrect for the following lap and Peak Speed data will reset.
