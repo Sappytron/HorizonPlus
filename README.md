@@ -1,7 +1,7 @@
 # HorizonPlus
 A UI project for Forza Horizon 5, aiming to improve the existing framework with a plethora of new information for maximum detail and tools to improve your racing.
 
-DEV NOTE: 1.1 is currently delayed. One of the planned fixes is hiding when in Festivals / Homes, however the game does not provide an 'inGarage' flag. As a result I am having to develop a 'coordinate matrix' which is taking a lot of time.
+DEV NOTE: 1.1 is currently delayed. One of the planned fixes is hiding the UI when in Festivals / Homes, however the game does not provide an 'inGarage' flag. As a result I am having to develop a 'coordinate matrix' which is taking a lot of time.
 If it isn't ready in the next few days, 1.0.2 will come out with some of the completed features and fixes, as opposed to a long wait.
 
 HorizonPlus is designed to enhance and augment the existing UI with new features and additions for players of all disciplines.
