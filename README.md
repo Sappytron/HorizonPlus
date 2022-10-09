@@ -10,7 +10,7 @@ SimHub is required to be installed for the overlay to function.
 INSTRUCTIONS:
 - Unzip all files and copy the 'DashTemplates', 'DashFonts' and 'OverlayLayouts' folders into your SimHub install folder.
   - Alpha/Beta Testers: When upgrading, be sure to click "Replace Files". Delete legacy files for the optimal experience.
-- Configure the game: Go to Game Settings > HUD and Gameplay > set "Data IP Out Address" to 127.0.0.1 and "Data IP Out Port" to 8000.
+- Configure the game: Go to Game Settings > HUD and Gameplay > Set 'Data Out' to On, set "Data IP Out Address" to 127.0.0.1 and "Data IP Out Port" to 8000.
 - Start the Overlay in Dash Studio > Overlays > (HorizonPlus [Target Resolution])
 - Ensure "Hide when Not in Race" is ticked.
 - You're done! If the overlay doesn't show up initially, restart the game and SimHub after setting up.
