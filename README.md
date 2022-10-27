@@ -1,9 +1,6 @@
 # HorizonPlus
 A UI project for Forza Horizon 5, aiming to improve the existing framework with a plethora of new information for maximum detail and tools to improve your racing.
 
-DEV NOTE: 1.1 is currently delayed. One of the planned fixes is hiding the UI when in Festivals / Homes, however the game does not provide an 'inGarage' flag. As a result I am having to develop a 'coordinate matrix' which is taking a lot of time.
-1.0.2 is now out with some of the planned updates / fixes for that release while I take my time on the bigger stuff.
-
 HorizonPlus is designed to enhance and augment the existing UI with new features and additions for players of all disciplines.
 SimHub is required to be installed for the overlay to function.
 
@@ -43,7 +40,7 @@ FEATURES:
    - Grip / Wheelspin
    - Standing Water Indicator
    - Drivetrain Detection
-   - Tyre Data Table (For Swapping Values - Switcher coming soon)
+   - Tyre Data Table
 
 IMPORTANT INFORMATION:
 - Pausing / Rewinding internally resets the session, meaning Delta will be incorrect for the following lap and Peak Speed data will reset.
