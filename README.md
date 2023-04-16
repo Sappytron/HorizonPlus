@@ -52,7 +52,7 @@ IMPORTANT INFORMATION:
 HorizonPlus was created by Sappytron.
 
 Special thanks to the following community members & teams for helping to test, develop or otherwise support the project throughout it's development:
-- The 1 Hour of Racing Team
+- The Racing Haven Team
 - The FIDA Team
 - Scarshe
 - Saeenu
