@@ -12,7 +12,7 @@ INSTRUCTIONS:
 	- Double clicking these files will bring a pop-up window to install the modules. Install all bundled modules.
 	- Ensure that "Install Fonts" is ticked, before clicking "Import into SimHub Library".
 - Copy the 'OverlayLayouts' folder contents into your SimHub install folder of the same name.
-  - Alpha/Beta Testers: When upgrading, be sure to click "Replace Files". Delete legacy files for the optimal experience.
+  - When upgrading, be sure to click "Replace Files". Delete legacy files for the optimal experience.
 - Configure the game: Go to Game Settings > HUD and Gameplay:
   - Turn on 'Data IP Out'.
   - Set "Data IP Out Address" to 127.0.0.1.
@@ -40,6 +40,7 @@ FEATURES:
    - Last Lap
    - Peak Speed
    - Boost Pressure Gauge (PSI by default - This can be switched to BAR in the Gauge's settings.)
+   - Shift Indicator / Warning
    - Accelerometer
    - G-Forces
    - Suspension Compression Model
@@ -67,5 +68,6 @@ Special thanks to the following community members & teams for helping to test, d
 - The ForzaDash Team
 - Minero
 - HokiHoshi
-- (In memory of) ChimiChungo
 - YoYoGavri
+- SolarisFlareon
+- (In memory of) ChimiChungo
